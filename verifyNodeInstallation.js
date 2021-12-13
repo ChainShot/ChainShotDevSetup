@@ -12,3 +12,4 @@ console.log(`%c ________________________________________
 console.log();
 console.log("Great job installing Git and Node.js!");
 console.log("Now you can move on to Task 5! :)");
+console.loh("Isn't this a pretty cow")
