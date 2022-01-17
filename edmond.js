@@ -1,0 +1,1 @@
+//Motto to live by #1: Don't count your money in the wind.
