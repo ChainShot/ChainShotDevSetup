@@ -1,4 +1,4 @@
-# Verification of Node.js
+# Verification of Node.js :)
 Set up of ChainShot dev environment!
 
 Run `node -v` to verify your Node.js version.
